@@ -1,0 +1,7 @@
+nytkey = 'FTYnX7PApG4Xl9kpHcGsuUmNxyyfVyoX'
+quandlkey = 'GnyCuXsAZje9sc1_ExqN'
+twitterapikey  = 'EqsFHVDOBNL4CpjGQpBHQdBUJ'
+twittersecret = 'qdpI7FbqwTjfJRRjptzN6NnhOeiOlk0KZM8Hx8Sihaz7Z4WBVp'
+accesstoken = '170224887-nPrEPgwFNmO9rGiBm2sffO9NDhSCvbc6PDynlfnj'
+accesssecret = 'B61k3Wg0gCeZyGcyMvgtReQtDmCKiokFkf5ZBEDaMbcsU'
+newsapikey = '5fc1fa3ae8ea4258a89520686faefd65'
