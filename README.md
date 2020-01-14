@@ -12,15 +12,17 @@ This is a final project I do for the Flatiron Data Science Immersive program 100
 - Headlines Filtering:
   Sections included: 'Business', 'National', 'World', 'U.S.' , 'Politics', 'Opinion', 'Tech', 'Science',  'Health' and 'Foreign‘.
 
-- Merge stock indices price with articles
+- Merge stock indices price with headlines each day
+
 - Storing (pickling) the data
 
 - Calculate open - close/open percentage 
 
 - Calculate close- open/open percentage
 
-- Get investor sentiments from American Investor Assoication using Quandl: 
-- Get monthly data such S&P P/E ratio, S&P earning per share, S&P dividend yield.
+- Investor sentiments from American Investor Assoication using Quandl
+
+- Monthly data such S&P P/E ratio, S&P earning per share, S&P dividend yield.
 
 
 ### Task
