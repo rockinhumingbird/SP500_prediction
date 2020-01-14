@@ -1,5 +1,4 @@
-# NYT_stocks
-
+# S&P index prediction
 This is a final project I do for the Flatiron Data Science Immersive program 100719.
 
 ![alt test](https://raw.githubusercontent.com/rockinhumingbird/NYT_stocks/master/nyt.jpeg)
