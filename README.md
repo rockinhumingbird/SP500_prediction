@@ -2,16 +2,17 @@
 
 This is a final project I do for the Flatiron Data Science Immersive program 100719.
 
+![alt test](https://raw.githubusercontent.com/rockinhumingbird/NYT_stocks/master/nyt.jpeg)
 
 ### Data
 - There are two sources of data provided in this dataset:
-News data: I called New York Times archive news API.
-Stock data: S&P500 is used for prediction. (Range: 2010-01-01 to 2020-01-06)
+
+1. News Headline data: I called New York Times archive news API.
+2. Stock data: S&P500 is used for prediction. (Range: 2010-01-01 to 2020-01-06)
 
 ## Procedure
-- Articles Filtering:
-  Sections included: 'Business', 'National', 'World', 'U.S.' , 'Politics', 'Opinion', 'Tech', 'Science',  'Health' and 'Foreign‘
-    - Approximately 400,000 articles selected from 1 Million articles.
+- Headlines Filtering:
+  Sections included: 'Business', 'National', 'World', 'U.S.' , 'Politics', 'Opinion', 'Tech', 'Science',  'Health' and 'Foreign‘.
 
 - Merge stock indices price with articles
 - Storing (pickling) the data
@@ -20,6 +21,8 @@ Stock data: S&P500 is used for prediction. (Range: 2010-01-01 to 2020-01-06)
 
 - Calculate close- open/open percentage
 
+- Get investor sentiments from American Investor Assoication using Quandl: 
+- Get monthly data such S&P P/E ratio, S&P earning per share, S&P dividend yield.
 
 
 ### Task
@@ -27,6 +30,3 @@ Predicting stock price, adding text features using NLP techniques.
 
 Approach
 Combinations of a variety of strategies:
-
-- 
-- Some classifiers on classifying increase or decrease, using positive and negative scores + historical price
