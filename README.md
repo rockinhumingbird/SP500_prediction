@@ -36,11 +36,11 @@ Combinations of a variety of strategies:
   5. Calculate Moving Average convergence index which is a trading indicator used in technical analysis of stock prices,
 
 ## EDA
-The price of SP500 has been gradually climbing by annual trend.
+# The price of SP500 has been gradually climbing by annual trend.
 ![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/newplot%20(5).png)
 
-Some EDA result using monthly data suggesting the inverse relationship between PE ratio and EPS, overall the price of SP500 went up the past 9 years, the EPS have starting to slightly slow down since 2019.
-![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/newplot%20(8).png
+# Some EDA result using monthly data suggesting the inverse relationship between PE ratio and EPS, overall the price of SP500 went up the past 9 years, the EPS have starting to slightly slow down since 2019.
+![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/newplot%20(8).png)
 
 ## Some result
 
