@@ -1,8 +1,7 @@
 # S&P index prediction
 This is a final project I do for the Flatiron Data Science Immersive program 100719.
 
-![alt test](https://raw.githubusercontent.com/rockinhumingbird/NYT_stocks/master/nyt.jpeg)
-
+![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/nyt.jpeg)
 ### Data
 - There are two sources of data provided in this dataset:
 
@@ -13,15 +12,13 @@ This is a final project I do for the Flatiron Data Science Immersive program 100
 - Headlines Filtering:
   Sections included: 'Business', 'National', 'World', 'U.S.' , 'Politics', 'Opinion', 'Tech', 'Science',  'Health' and 'Foreign‘.
 
-- Merge stock indices price with articles
+- Merge stock indices price with headlines each day
+
 - Storing (pickling) the data
 
-- Calculate open - close/open percentage 
+- Feature engineering
 
-- Calculate close- open/open percentage
-
-- Get investor sentiments from American Investor Assoication using Quandl: 
-- Get monthly data such S&P P/E ratio, S&P earning per share, S&P dividend yield.
+- Modeling
 
 
 ### Task
@@ -29,3 +26,12 @@ Predicting stock price, adding text features using NLP techniques.
 
 Approach
 Combinations of a variety of strategies:
+- Sentiment analysis using Textblob, get the polarity score and subjectvitity score
+- Using technical indicators as external financial predictors
+  1. Calculate open - close/open percentage 
+  2. Calculate close- open/open percentage
+  3. Open price with 1 day window
+  4.  Monthly data such S&P P/E ratio, S&P earning per share, S&P dividend yield.
+  5. Calculate relative index strengh: indexing overbought or oversold
+  6. Calculate Moving Average convergence index which is a trading indicator used in technical analysis of stock prices,
+
