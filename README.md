@@ -37,13 +37,13 @@ Combinations of a variety of strategies:
 
 ## EDA
 The price of SP500 has been gradually climbing by annual trend.
-![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/new_plot(5).png)
+![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/newplot%20(5).png)
 
 Some EDA result using monthly data suggesting the inverse relationship between PE ratio and EPS, overall the price of SP500 went up the past 9 years, the EPS have starting to slightly slow down since 2019.
-![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/new_plot(8).png)
+![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/newplot%20(8).png
 
 ## Some result
 
 
-![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/image/new_plot(5).png)
+
 
