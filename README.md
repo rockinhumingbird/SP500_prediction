@@ -45,5 +45,6 @@ Combinations of a variety of strategies:
 ## Some result
 
 
+![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/sarima.png)
 
 
