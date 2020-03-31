@@ -1,6 +1,5 @@
 # S&P index prediction
 
-## This is a final project I do for the Flatiron Data Science Immersive program 100719.
 
 ![alt test](https://github.com/rockinhumingbird/SP500_prediction/blob/master/nyt.jpeg)
 ### Data
